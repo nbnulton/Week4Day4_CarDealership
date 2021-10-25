@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "askForPassword": true,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "dvd_rental",
+            "connectString": "postgres://mcuvbsut:KRBTfJnH9004ml47lpK9RqxVO12uRT6A@fanny.db.elephantsql.com/mcuvbsut"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "car_dealership",
+            "connectString": "postgres://eqeyrsuw:g3BibLtiZ2CXbwTwXWcT72ONTXrml2R1@fanny.db.elephantsql.com/eqeyrsuw"
+        }
+    ]
+}
